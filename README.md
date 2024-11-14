@@ -59,17 +59,6 @@ With this Excel-based analysis, AtilQ Hardware can make informed, data-driven de
 
 ---
 
-## 📂 File Structure
-AtilQ_Hardware_Sales_Finance_Report/ 
-├── Customer_NetSales_Performance.xlsx 
-├── Market_Sales_Performance.xlsx 
-├── Performance_vs_Target.xlsx 
-├── Fiscal_Year_PL_Statement.xlsx 
-├── Quarterly_Gross_Market_Percentages.xlsx 
-└── Project_Priority_Matrix.xlsx
-
----
-
 ## 📬 Contact Information
 
 **Prepared by**: [Aravind Kumar Yedida]  
